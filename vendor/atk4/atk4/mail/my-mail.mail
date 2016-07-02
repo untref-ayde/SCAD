@@ -1,0 +1,8 @@
+{subject}Congrats. You won {$prize}{/}
+
+<h2>Congratulations, {$name}</h2>
+
+<p>You have just won an amazing {$prize}. To claim the prize you
+must click on the following link</p>
+
+<a href="{$link}">{$link}</a>
